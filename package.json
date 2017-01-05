@@ -1,0 +1,22 @@
+{
+  "name": "alloyfinger_currenttarget",
+  "version": "1.0.0",
+  "description": "add the currentTarget Attribute to the TouchEvent Object base on the AlloyFinger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qbright/alloyFinger_currentTarget.git"
+  },
+  "keywords": [
+    "alloyfinger"
+  ],
+  "author": "zqbright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qbright/alloyFinger_currentTarget/issues"
+  },
+  "homepage": "https://github.com/qbright/alloyFinger_currentTarget#readme"
+}
