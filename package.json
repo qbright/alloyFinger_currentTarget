@@ -1,6 +1,6 @@
 {
   "name": "alloyfinger_currenttarget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "add the currentTarget Attribute to the TouchEvent Object base on the AlloyFinger",
   "main": "index.js",
   "scripts": {
